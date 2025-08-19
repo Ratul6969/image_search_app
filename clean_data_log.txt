@@ -1,0 +1,912 @@
+
+Cleaning and enriching product data:   0%|          | 0/333 [00:00<?, ?it/s]
+Cleaning and enriching product data:   0%|          | 1/333 [00:02<14:56,  2.70s/it]
+Cleaning and enriching product data:   1%|          | 2/333 [00:04<12:27,  2.26s/it]
+Cleaning and enriching product data:   1%|          | 3/333 [00:05<07:56,  1.44s/it]
+Cleaning and enriching product data:   1%|1         | 4/333 [00:06<08:29,  1.55s/it]
+Cleaning and enriching product data:   2%|1         | 5/333 [00:08<08:16,  1.51s/it]
+Cleaning and enriching product data:   2%|1         | 6/333 [00:09<08:14,  1.51s/it]
+Cleaning and enriching product data:   2%|2         | 7/333 [00:10<06:40,  1.23s/it]
+Cleaning and enriching product data:   2%|2         | 8/333 [00:10<04:48,  1.13it/s]
+Cleaning and enriching product data:   3%|2         | 9/333 [00:10<03:53,  1.39it/s]
+Cleaning and enriching product data:   3%|3         | 10/333 [00:11<03:30,  1.54it/s]
+Cleaning and enriching product data:   3%|3         | 11/333 [00:13<06:29,  1.21s/it]
+Cleaning and enriching product data:   4%|3         | 13/333 [00:14<04:02,  1.32it/s]
+Cleaning and enriching product data:   4%|4         | 14/333 [00:14<03:24,  1.56it/s]
+Cleaning and enriching product data:   5%|4         | 15/333 [00:15<03:50,  1.38it/s]
+Cleaning and enriching product data:   5%|4         | 16/333 [00:16<04:29,  1.17it/s]
+Cleaning and enriching product data:   5%|5         | 17/333 [00:17<03:53,  1.35it/s]
+Cleaning and enriching product data:   5%|5         | 18/333 [00:17<03:24,  1.54it/s]
+Cleaning and enriching product data:   6%|5         | 19/333 [00:17<02:46,  1.89it/s]
+Cleaning and enriching product data:   6%|6         | 20/333 [00:18<02:52,  1.82it/s]
+Cleaning and enriching product data:   6%|6         | 21/333 [00:19<03:35,  1.44it/s]
+Cleaning and enriching product data:   7%|6         | 22/333 [00:20<04:15,  1.22it/s]
+Cleaning and enriching product data:   7%|6         | 23/333 [00:21<03:52,  1.33it/s]
+Cleaning and enriching product data:   7%|7         | 24/333 [00:22<04:19,  1.19it/s]
+Cleaning and enriching product data:   8%|7         | 26/333 [00:22<03:02,  1.69it/s]
+Cleaning and enriching product data:   8%|8         | 27/333 [00:25<04:59,  1.02it/s]
+Cleaning and enriching product data:   8%|8         | 28/333 [00:25<04:35,  1.11it/s]
+Cleaning and enriching product data:   9%|8         | 29/333 [00:26<04:00,  1.26it/s]
+Cleaning and enriching product data:   9%|9         | 30/333 [00:26<03:38,  1.39it/s]
+Cleaning and enriching product data:   9%|9         | 31/333 [00:27<02:58,  1.69it/s]
+Cleaning and enriching product data:  10%|9         | 32/333 [00:28<04:14,  1.18it/s]
+Cleaning and enriching product data:  10%|9         | 33/333 [00:28<03:29,  1.43it/s]
+Cleaning and enriching product data:  10%|#         | 34/333 [00:30<05:01,  1.01s/it]
+Cleaning and enriching product data:  11%|#         | 35/333 [00:31<04:23,  1.13it/s]
+Cleaning and enriching product data:  11%|#         | 36/333 [00:31<04:05,  1.21it/s]
+Cleaning and enriching product data:  11%|#1        | 37/333 [00:32<03:30,  1.40it/s]
+Cleaning and enriching product data:  11%|#1        | 38/333 [00:32<02:51,  1.72it/s]
+Cleaning and enriching product data:  12%|#1        | 39/333 [00:33<03:30,  1.40it/s]
+Cleaning and enriching product data:  12%|#2        | 40/333 [00:35<04:41,  1.04it/s]
+Cleaning and enriching product data:  12%|#2        | 41/333 [00:35<03:59,  1.22it/s]
+Cleaning and enriching product data:  13%|#2        | 42/333 [00:36<03:50,  1.26it/s]
+Cleaning and enriching product data:  13%|#2        | 43/333 [00:36<02:59,  1.62it/s]
+Cleaning and enriching product data:  13%|#3        | 44/333 [00:36<02:28,  1.94it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  14%|#3        | 45/333 [00:38<04:05,  1.17it/s]
+Cleaning and enriching product data:  14%|#3        | 46/333 [00:39<03:33,  1.34it/s]
+Cleaning and enriching product data:  14%|#4        | 47/333 [00:40<04:32,  1.05it/s]
+Cleaning and enriching product data:  14%|#4        | 48/333 [00:40<03:30,  1.36it/s]
+Cleaning and enriching product data:  15%|#4        | 49/333 [00:40<02:45,  1.72it/s]
+Cleaning and enriching product data:  15%|#5        | 50/333 [00:42<04:07,  1.14it/s]
+Cleaning and enriching product data:  15%|#5        | 51/333 [00:43<03:42,  1.26it/s]
+Cleaning and enriching product data:  16%|#5        | 52/333 [00:43<03:04,  1.52it/s]
+Cleaning and enriching product data:  16%|#5        | 53/333 [00:43<02:32,  1.83it/s]
+Cleaning and enriching product data:  16%|#6        | 54/333 [00:44<02:48,  1.66it/s]
+Cleaning and enriching product data:  17%|#6        | 55/333 [00:47<05:38,  1.22s/it]
+Cleaning and enriching product data:  17%|#6        | 56/333 [00:47<04:16,  1.08it/s]
+Cleaning and enriching product data:  17%|#7        | 57/333 [00:47<03:07,  1.47it/s]
+Cleaning and enriching product data:  17%|#7        | 58/333 [00:47<02:21,  1.94it/s]
+Cleaning and enriching product data:  18%|#7        | 59/333 [00:47<01:50,  2.48it/s]
+Cleaning and enriching product data:  18%|#8        | 60/333 [00:49<04:22,  1.04it/s]
+Cleaning and enriching product data:  18%|#8        | 61/333 [00:51<04:57,  1.09s/it]
+Cleaning and enriching product data:  19%|#8        | 62/333 [00:51<03:39,  1.23it/s]
+Cleaning and enriching product data:  19%|#8        | 63/333 [00:51<02:47,  1.61it/s]
+Cleaning and enriching product data:  19%|#9        | 64/333 [00:52<03:17,  1.36it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  20%|#9        | 65/333 [00:53<03:32,  1.26it/s]
+Cleaning and enriching product data:  20%|#9        | 66/333 [00:55<04:47,  1.08s/it]
+Cleaning and enriching product data:  20%|##        | 67/333 [00:55<03:36,  1.23it/s]
+Cleaning and enriching product data:  20%|##        | 68/333 [00:55<02:44,  1.61it/s]
+Cleaning and enriching product data:  21%|##1       | 70/333 [00:57<03:31,  1.24it/s]
+Cleaning and enriching product data:  21%|##1       | 71/333 [00:58<02:54,  1.51it/s]
+Cleaning and enriching product data:  22%|##1       | 72/333 [00:59<04:06,  1.06it/s]
+Cleaning and enriching product data:  22%|##1       | 73/333 [01:00<03:22,  1.28it/s]
+Cleaning and enriching product data:  22%|##2       | 74/333 [01:00<03:08,  1.38it/s]
+Cleaning and enriching product data:  23%|##2       | 75/333 [01:01<03:48,  1.13it/s]
+Cleaning and enriching product data:  23%|##2       | 76/333 [01:02<02:50,  1.51it/s]
+Cleaning and enriching product data:  23%|##3       | 77/333 [01:04<04:37,  1.08s/it]
+Cleaning and enriching product data:  23%|##3       | 78/333 [01:04<03:59,  1.07it/s]
+Cleaning and enriching product data:  24%|##3       | 79/333 [01:06<04:34,  1.08s/it]
+Cleaning and enriching product data:  24%|##4       | 80/333 [01:07<05:18,  1.26s/it]
+Cleaning and enriching product data:  24%|##4       | 81/333 [01:09<05:24,  1.29s/it]
+Cleaning and enriching product data:  25%|##4       | 83/333 [01:09<03:08,  1.32it/s]
+Cleaning and enriching product data:  25%|##5       | 84/333 [01:10<03:40,  1.13it/s]
+Cleaning and enriching product data:  26%|##5       | 85/333 [01:13<05:11,  1.26s/it]
+Cleaning and enriching product data:  26%|##5       | 86/333 [01:13<04:02,  1.02it/s]
+Cleaning and enriching product data:  26%|##6       | 87/333 [01:13<03:17,  1.25it/s]
+Cleaning and enriching product data:  26%|##6       | 88/333 [01:14<03:07,  1.30it/s]
+Cleaning and enriching product data:  27%|##6       | 89/333 [01:14<02:31,  1.61it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  27%|##7       | 90/333 [01:16<03:41,  1.09it/s]
+Cleaning and enriching product data:  27%|##7       | 91/333 [01:17<03:58,  1.01it/s]
+Cleaning and enriching product data:  28%|##7       | 93/333 [01:17<02:25,  1.65it/s]
+Cleaning and enriching product data:  28%|##8       | 94/333 [01:18<02:54,  1.37it/s]
+Cleaning and enriching product data:  29%|##8       | 95/333 [01:20<03:48,  1.04it/s]
+Cleaning and enriching product data:  29%|##9       | 97/333 [01:21<03:08,  1.25it/s]
+Cleaning and enriching product data:  29%|##9       | 98/333 [01:22<03:25,  1.14it/s]
+Cleaning and enriching product data:  30%|###       | 100/333 [01:24<03:27,  1.12it/s]
+Cleaning and enriching product data:  30%|###       | 101/333 [01:24<02:50,  1.36it/s]
+Cleaning and enriching product data:  31%|###       | 102/333 [01:25<02:50,  1.36it/s]
+Cleaning and enriching product data:  31%|###1      | 104/333 [01:26<02:44,  1.39it/s]
+Cleaning and enriching product data:  32%|###1      | 105/333 [01:28<03:30,  1.08it/s]
+Cleaning and enriching product data:  32%|###2      | 108/333 [01:28<01:54,  1.97it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  33%|###2      | 109/333 [01:30<03:00,  1.24it/s]
+Cleaning and enriching product data:  33%|###3      | 110/333 [01:31<02:51,  1.30it/s]
+Cleaning and enriching product data:  33%|###3      | 111/333 [01:32<03:08,  1.18it/s]
+Cleaning and enriching product data:  34%|###3      | 112/333 [01:32<02:27,  1.50it/s]
+Cleaning and enriching product data:  34%|###3      | 113/333 [01:33<02:11,  1.67it/s]
+Cleaning and enriching product data:  34%|###4      | 114/333 [01:35<03:30,  1.04it/s]
+Cleaning and enriching product data:  35%|###4      | 115/333 [01:35<03:23,  1.07it/s]
+Cleaning and enriching product data:  35%|###4      | 116/333 [01:36<03:11,  1.13it/s]
+Cleaning and enriching product data:  35%|###5      | 118/333 [01:38<03:01,  1.19it/s]
+Cleaning and enriching product data:  36%|###5      | 119/333 [01:38<02:39,  1.34it/s]
+Cleaning and enriching product data:  36%|###6      | 120/333 [01:38<02:14,  1.58it/s]
+Cleaning and enriching product data:  36%|###6      | 121/333 [01:39<02:23,  1.48it/s]
+Cleaning and enriching product data:  37%|###6      | 123/333 [01:41<02:55,  1.20it/s]
+Cleaning and enriching product data:  37%|###7      | 124/333 [01:41<02:18,  1.51it/s]
+Cleaning and enriching product data:  38%|###7      | 125/333 [01:42<01:56,  1.79it/s]
+Cleaning and enriching product data:  38%|###7      | 126/333 [01:43<03:00,  1.15it/s]
+Cleaning and enriching product data:  38%|###8      | 128/333 [01:44<02:24,  1.42it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  39%|###8      | 129/333 [01:45<02:09,  1.57it/s]
+Cleaning and enriching product data:  39%|###9      | 130/333 [01:45<02:10,  1.56it/s]
+Cleaning and enriching product data:  39%|###9      | 131/333 [01:47<02:30,  1.34it/s]
+Cleaning and enriching product data:  40%|###9      | 132/333 [01:48<02:48,  1.20it/s]
+Cleaning and enriching product data:  40%|###9      | 133/333 [01:49<02:59,  1.11it/s]
+Cleaning and enriching product data:  40%|####      | 134/333 [01:49<02:28,  1.34it/s]
+Cleaning and enriching product data:  41%|####      | 135/333 [01:49<02:09,  1.53it/s]
+Cleaning and enriching product data:  41%|####      | 136/333 [01:51<03:28,  1.06s/it]
+Cleaning and enriching product data:  41%|####1     | 138/333 [01:52<01:57,  1.65it/s]
+Cleaning and enriching product data:  42%|####1     | 139/333 [01:52<01:39,  1.95it/s]
+Cleaning and enriching product data:  42%|####2     | 140/333 [01:53<02:34,  1.25it/s]
+Cleaning and enriching product data:  42%|####2     | 141/333 [01:55<02:59,  1.07it/s]
+Cleaning and enriching product data:  43%|####2     | 142/333 [01:56<03:29,  1.10s/it]
+Cleaning and enriching product data:  43%|####2     | 143/333 [01:57<02:59,  1.06it/s]
+Cleaning and enriching product data:  44%|####3     | 145/333 [01:57<01:44,  1.80it/s]
+Cleaning and enriching product data:  44%|####3     | 146/333 [01:59<02:35,  1.20it/s]
+Cleaning and enriching product data:  44%|####4     | 147/333 [01:59<02:05,  1.48it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  44%|####4     | 148/333 [02:00<02:13,  1.39it/s]
+Cleaning and enriching product data:  45%|####4     | 149/333 [02:00<01:51,  1.65it/s]
+Cleaning and enriching product data:  45%|####5     | 150/333 [02:01<02:16,  1.34it/s]
+Cleaning and enriching product data:  45%|####5     | 151/333 [02:02<02:04,  1.46it/s]
+Cleaning and enriching product data:  46%|####5     | 152/333 [02:04<03:22,  1.12s/it]
+Cleaning and enriching product data:  46%|####5     | 153/333 [02:05<03:46,  1.26s/it]
+Cleaning and enriching product data:  46%|####6     | 154/333 [02:06<03:14,  1.09s/it]
+Cleaning and enriching product data:  47%|####6     | 155/333 [02:07<02:45,  1.08it/s]
+Cleaning and enriching product data:  47%|####6     | 156/333 [02:07<02:12,  1.34it/s]
+Cleaning and enriching product data:  47%|####7     | 157/333 [02:09<03:13,  1.10s/it]
+Cleaning and enriching product data:  47%|####7     | 158/333 [02:11<03:46,  1.29s/it]
+Cleaning and enriching product data:  48%|####7     | 159/333 [02:11<02:42,  1.07it/s]
+Cleaning and enriching product data:  48%|####8     | 160/333 [02:12<02:41,  1.07it/s]
+Cleaning and enriching product data:  48%|####8     | 161/333 [02:12<02:08,  1.34it/s]
+Cleaning and enriching product data:  49%|####8     | 163/333 [02:15<03:04,  1.09s/it]
+Cleaning and enriching product data:  49%|####9     | 164/333 [02:15<02:27,  1.14it/s]
+Cleaning and enriching product data:  50%|####9     | 165/333 [02:16<02:18,  1.21it/s]
+Cleaning and enriching product data:  50%|####9     | 166/333 [02:16<01:52,  1.49it/s]
+Cleaning and enriching product data:  50%|#####     | 167/333 [02:18<02:36,  1.06it/s]
+Cleaning and enriching product data:  50%|#####     | 168/333 [02:18<02:08,  1.29it/s]
+Cleaning and enriching product data:  51%|#####     | 169/333 [02:20<02:42,  1.01it/s]
+Cleaning and enriching product data:  51%|#####1    | 170/333 [02:21<02:44,  1.01s/it]
+Cleaning and enriching product data:  51%|#####1    | 171/333 [02:21<02:07,  1.27it/s]
+Cleaning and enriching product data:  52%|#####1    | 172/333 [02:22<01:58,  1.36it/s]
+Cleaning and enriching product data:  52%|#####1    | 173/333 [02:22<01:52,  1.43it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  52%|#####2    | 174/333 [02:23<02:17,  1.15it/s]
+Cleaning and enriching product data:  53%|#####2    | 175/333 [02:25<02:59,  1.13s/it]
+Cleaning and enriching product data:  53%|#####3    | 177/333 [02:26<01:52,  1.38it/s]
+Cleaning and enriching product data:  53%|#####3    | 178/333 [02:26<01:37,  1.59it/s]
+Cleaning and enriching product data:  54%|#####3    | 179/333 [02:27<01:30,  1.70it/s]
+Cleaning and enriching product data:  54%|#####4    | 180/333 [02:28<02:23,  1.07it/s]
+Cleaning and enriching product data:  55%|#####4    | 182/333 [02:30<02:00,  1.25it/s]
+Cleaning and enriching product data:  55%|#####4    | 183/333 [02:30<01:53,  1.32it/s]
+Cleaning and enriching product data:  55%|#####5    | 184/333 [02:31<01:56,  1.28it/s]
+Cleaning and enriching product data:  56%|#####5    | 185/333 [02:32<01:46,  1.39it/s]
+Cleaning and enriching product data:  56%|#####5    | 186/333 [02:33<02:29,  1.02s/it]
+Cleaning and enriching product data:  56%|#####6    | 187/333 [02:34<02:00,  1.21it/s]
+Cleaning and enriching product data:  56%|#####6    | 188/333 [02:34<01:35,  1.53it/s]
+Cleaning and enriching product data:  57%|#####6    | 189/333 [02:34<01:18,  1.84it/s]
+Cleaning and enriching product data:  57%|#####7    | 190/333 [02:35<01:03,  2.25it/s]
+Cleaning and enriching product data:  57%|#####7    | 191/333 [02:37<02:07,  1.11it/s]
+Cleaning and enriching product data:  58%|#####7    | 192/333 [02:38<02:23,  1.02s/it]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  58%|#####7    | 193/333 [02:39<02:11,  1.07it/s]
+Cleaning and enriching product data:  58%|#####8    | 194/333 [02:39<01:59,  1.16it/s]
+Cleaning and enriching product data:  59%|#####8    | 195/333 [02:40<01:44,  1.32it/s]
+Cleaning and enriching product data:  59%|#####8    | 196/333 [02:40<01:39,  1.38it/s]
+Cleaning and enriching product data:  59%|#####9    | 197/333 [02:41<01:16,  1.78it/s]
+Cleaning and enriching product data:  59%|#####9    | 198/333 [02:41<01:22,  1.64it/s]
+Cleaning and enriching product data:  60%|#####9    | 199/333 [02:43<01:48,  1.23it/s]
+Cleaning and enriching product data:  60%|######    | 200/333 [02:43<01:50,  1.21it/s]
+Cleaning and enriching product data:  61%|######    | 202/333 [02:44<01:23,  1.56it/s]
+Cleaning and enriching product data:  61%|######    | 203/333 [02:45<01:30,  1.43it/s]
+Cleaning and enriching product data:  61%|######1   | 204/333 [02:45<01:11,  1.80it/s]
+Cleaning and enriching product data:  62%|######1   | 205/333 [02:46<01:19,  1.62it/s]
+Cleaning and enriching product data:  62%|######1   | 206/333 [02:47<01:43,  1.22it/s]
+Cleaning and enriching product data:  62%|######2   | 207/333 [02:48<01:35,  1.31it/s]
+Cleaning and enriching product data:  63%|######2   | 209/333 [02:49<01:19,  1.57it/s]
+Cleaning and enriching product data:  63%|######3   | 210/333 [02:49<01:03,  1.94it/s]
+Cleaning and enriching product data:  63%|######3   | 211/333 [02:51<01:31,  1.33it/s]
+Cleaning and enriching product data:  64%|######3   | 212/333 [02:51<01:21,  1.48it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  64%|######3   | 213/333 [02:53<02:12,  1.11s/it]
+Cleaning and enriching product data:  65%|######4   | 215/333 [02:54<01:21,  1.45it/s]
+Cleaning and enriching product data:  65%|######4   | 216/333 [02:54<01:10,  1.66it/s]
+Cleaning and enriching product data:  65%|######5   | 217/333 [02:55<01:13,  1.57it/s]
+Cleaning and enriching product data:  65%|######5   | 218/333 [02:57<02:08,  1.12s/it]
+Cleaning and enriching product data:  66%|######5   | 219/333 [02:57<01:36,  1.18it/s]
+Cleaning and enriching product data:  66%|######6   | 221/333 [02:58<01:00,  1.85it/s]
+Cleaning and enriching product data:  67%|######6   | 222/333 [02:59<01:34,  1.17it/s]
+Cleaning and enriching product data:  67%|######6   | 223/333 [03:00<01:27,  1.25it/s]
+Cleaning and enriching product data:  67%|######7   | 224/333 [03:02<01:58,  1.08s/it]
+Cleaning and enriching product data:  68%|######7   | 225/333 [03:03<01:44,  1.04it/s]
+Cleaning and enriching product data:  68%|######7   | 226/333 [03:05<02:36,  1.46s/it]
+Cleaning and enriching product data:  68%|######8   | 227/333 [03:06<02:12,  1.25s/it]
+Cleaning and enriching product data:  68%|######8   | 228/333 [03:06<01:44,  1.01it/s]
+Cleaning and enriching product data:  69%|######8   | 229/333 [03:07<01:29,  1.16it/s]
+Cleaning and enriching product data:  69%|######9   | 230/333 [03:10<02:35,  1.51s/it]
+Cleaning and enriching product data:  70%|######9   | 232/333 [03:10<01:30,  1.12it/s]
+Cleaning and enriching product data:  70%|######9   | 233/333 [03:10<01:11,  1.39it/s]
+Cleaning and enriching product data:  70%|#######   | 234/333 [03:11<01:14,  1.33it/s]
+Cleaning and enriching product data:  71%|#######   | 235/333 [03:13<01:38,  1.00s/it]
+Cleaning and enriching product data:  71%|#######1  | 237/333 [03:13<01:03,  1.52it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  71%|#######1  | 238/333 [03:14<01:09,  1.36it/s]
+Cleaning and enriching product data:  72%|#######1  | 239/333 [03:16<01:28,  1.06it/s]
+Cleaning and enriching product data:  72%|#######2  | 241/333 [03:17<01:03,  1.45it/s]
+Cleaning and enriching product data:  73%|#######2  | 242/333 [03:17<01:03,  1.43it/s]
+Cleaning and enriching product data:  73%|#######2  | 243/333 [03:19<01:15,  1.19it/s]
+Cleaning and enriching product data:  73%|#######3  | 244/333 [03:19<01:03,  1.39it/s]
+Cleaning and enriching product data:  74%|#######3  | 246/333 [03:19<00:44,  1.96it/s]
+Cleaning and enriching product data:  74%|#######4  | 247/333 [03:21<00:54,  1.59it/s]
+Cleaning and enriching product data:  74%|#######4  | 248/333 [03:22<01:07,  1.26it/s]
+Cleaning and enriching product data:  75%|#######4  | 249/333 [03:22<00:56,  1.48it/s]
+Cleaning and enriching product data:  75%|#######5  | 251/333 [03:24<00:59,  1.39it/s]
+Cleaning and enriching product data:  76%|#######5  | 252/333 [03:25<01:02,  1.29it/s]
+Cleaning and enriching product data:  76%|#######5  | 253/333 [03:25<00:59,  1.35it/s]
+Cleaning and enriching product data:  76%|#######6  | 254/333 [03:25<00:45,  1.74it/s]
+Cleaning and enriching product data:  77%|#######6  | 255/333 [03:26<00:42,  1.83it/s]
+Cleaning and enriching product data:  77%|#######6  | 256/333 [03:27<00:51,  1.49it/s]
+Cleaning and enriching product data:  77%|#######7  | 257/333 [03:28<00:51,  1.47it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  77%|#######7  | 258/333 [03:30<01:18,  1.04s/it]
+Cleaning and enriching product data:  78%|#######7  | 259/333 [03:30<01:00,  1.22it/s]
+Cleaning and enriching product data:  78%|#######8  | 260/333 [03:30<00:47,  1.54it/s]
+Cleaning and enriching product data:  78%|#######8  | 261/333 [03:30<00:39,  1.82it/s]
+Cleaning and enriching product data:  79%|#######8  | 262/333 [03:31<00:39,  1.78it/s]
+Cleaning and enriching product data:  79%|#######8  | 263/333 [03:33<01:17,  1.10s/it]
+Cleaning and enriching product data:  79%|#######9  | 264/333 [03:33<00:56,  1.22it/s]
+Cleaning and enriching product data:  80%|#######9  | 265/333 [03:34<00:45,  1.48it/s]
+Cleaning and enriching product data:  80%|#######9  | 266/333 [03:34<00:36,  1.85it/s]
+Cleaning and enriching product data:  80%|########  | 267/333 [03:35<00:42,  1.54it/s]
+Cleaning and enriching product data:  80%|########  | 268/333 [03:37<01:19,  1.22s/it]
+Cleaning and enriching product data:  81%|########  | 269/333 [03:38<01:00,  1.05it/s]
+Cleaning and enriching product data:  81%|########1 | 271/333 [03:38<00:39,  1.58it/s]
+Cleaning and enriching product data:  82%|########1 | 272/333 [03:39<00:35,  1.72it/s]
+Cleaning and enriching product data:  82%|########1 | 273/333 [03:41<00:56,  1.07it/s]
+Cleaning and enriching product data:  83%|########2 | 275/333 [03:41<00:37,  1.56it/s]
+Cleaning and enriching product data:  83%|########2 | 276/333 [03:42<00:42,  1.33it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  83%|########3 | 277/333 [03:43<00:37,  1.49it/s]
+Cleaning and enriching product data:  83%|########3 | 278/333 [03:44<00:42,  1.31it/s]
+Cleaning and enriching product data:  84%|########3 | 279/333 [03:44<00:32,  1.64it/s]
+Cleaning and enriching product data:  84%|########4 | 280/333 [03:44<00:28,  1.88it/s]
+Cleaning and enriching product data:  84%|########4 | 281/333 [03:45<00:34,  1.52it/s]
+Cleaning and enriching product data:  85%|########4 | 282/333 [03:47<00:45,  1.11it/s]
+Cleaning and enriching product data:  85%|########4 | 283/333 [03:47<00:35,  1.40it/s]
+Cleaning and enriching product data:  85%|########5 | 284/333 [03:47<00:26,  1.87it/s]
+Cleaning and enriching product data:  86%|########5 | 285/333 [03:47<00:20,  2.38it/s]
+Cleaning and enriching product data:  86%|########5 | 286/333 [03:48<00:26,  1.79it/s]
+Cleaning and enriching product data:  86%|########6 | 287/333 [03:50<00:39,  1.17it/s]
+Cleaning and enriching product data:  86%|########6 | 288/333 [03:50<00:31,  1.43it/s]
+Cleaning and enriching product data:  87%|########6 | 289/333 [03:50<00:24,  1.78it/s]
+Cleaning and enriching product data:  87%|########7 | 290/333 [03:51<00:27,  1.56it/s]
+Cleaning and enriching product data:  87%|########7 | 291/333 [03:51<00:21,  1.96it/s]
+Cleaning and enriching product data:  88%|########7 | 292/333 [03:53<00:29,  1.39it/s]
+Cleaning and enriching product data:  88%|########7 | 293/333 [03:53<00:25,  1.54it/s]
+Cleaning and enriching product data:  88%|########8 | 294/333 [03:54<00:32,  1.21it/s]
+Cleaning and enriching product data:  89%|########8 | 295/333 [03:54<00:23,  1.61it/s]
+Cleaning and enriching product data:  89%|########8 | 296/333 [03:55<00:24,  1.51it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  89%|########9 | 297/333 [03:57<00:32,  1.11it/s]
+Cleaning and enriching product data:  89%|########9 | 298/333 [03:57<00:29,  1.21it/s]
+Cleaning and enriching product data:  90%|########9 | 299/333 [03:58<00:23,  1.45it/s]
+Cleaning and enriching product data:  90%|######### | 300/333 [03:58<00:20,  1.59it/s]
+Cleaning and enriching product data:  90%|######### | 301/333 [04:00<00:31,  1.02it/s]
+Cleaning and enriching product data:  91%|######### | 302/333 [04:00<00:23,  1.30it/s]
+Cleaning and enriching product data:  91%|######### | 303/333 [04:00<00:17,  1.75it/s]
+Cleaning and enriching product data:  91%|#########1| 304/333 [04:03<00:35,  1.23s/it]
+Cleaning and enriching product data:  92%|#########1| 305/333 [04:04<00:28,  1.01s/it]
+Cleaning and enriching product data:  92%|#########1| 306/333 [04:04<00:25,  1.07it/s]
+Cleaning and enriching product data:  92%|#########2| 307/333 [04:05<00:18,  1.41it/s]
+Cleaning and enriching product data:  92%|#########2| 308/333 [04:06<00:25,  1.03s/it]
+Cleaning and enriching product data:  93%|#########2| 309/333 [04:08<00:31,  1.31s/it]
+Cleaning and enriching product data:  93%|#########3| 310/333 [04:09<00:24,  1.07s/it]
+Cleaning and enriching product data:  93%|#########3| 311/333 [04:09<00:17,  1.23it/s]
+Cleaning and enriching product data:  94%|#########3| 313/333 [04:09<00:10,  1.97it/s]
+Cleaning and enriching product data:  94%|#########4| 314/333 [04:12<00:18,  1.04it/s]
+Cleaning and enriching product data:  95%|#########4| 315/333 [04:12<00:16,  1.10it/s]
+Cleaning and enriching product data:  95%|#########4| 316/333 [04:13<00:15,  1.12it/s]
+Cleaning and enriching product data:  95%|#########5| 317/333 [04:13<00:11,  1.44it/s]
+Cleaning and enriching product data:  96%|#########5| 319/333 [04:14<00:08,  1.62it/s]
+Cleaning and enriching product data:  96%|#########6| 320/333 [04:16<00:12,  1.06it/s]
+Cleaning and enriching product data:  96%|#########6| 321/333 [04:17<00:10,  1.16it/s]HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Cleaning and enriching product data:  97%|#########6| 322/333 [04:18<00:08,  1.28it/s]
+Cleaning and enriching product data:  97%|#########7| 324/333 [04:18<00:05,  1.58it/s]
+Cleaning and enriching product data:  98%|#########7| 325/333 [04:20<00:07,  1.09it/s]
+Cleaning and enriching product data:  98%|#########8| 327/333 [04:21<00:04,  1.27it/s]
+Cleaning and enriching product data:  98%|#########8| 328/333 [04:22<00:03,  1.47it/s]
+Cleaning and enriching product data:  99%|#########8| 329/333 [04:22<00:02,  1.62it/s]
+Cleaning and enriching product data:  99%|#########9| 330/333 [04:23<00:02,  1.39it/s]
+Cleaning and enriching product data: 100%|#########9| 332/333 [04:24<00:00,  1.54it/s]
+Cleaning and enriching product data: 100%|##########| 333/333 [04:25<00:00,  1.55it/s]
+Cleaning and enriching product data: 100%|##########| 333/333 [04:25<00:00,  1.25it/s]
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+HTTP Error: 429 Client Error: Too Many Requests for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDUtwrPaqd6leiUTddkc66c31JGtpHtZu8
+
+Data cleaning and enrichment complete. Cleaned data saved to products_cleaned.json
+�" �der ����r��  �der ob    /�$ P��"  0�"  der 3   q�� 	 �der ���J~�� 
+ �EC      � �� �der ��+*|��  �der 3   }�� 
+ �der ���Jz��  �der ob  {��7 �der "  x��" �K-409   y��  �der ���

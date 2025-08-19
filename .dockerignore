@@ -1,0 +1,21 @@
+    # Ignore Python artifacts and virtual environments
+    __pycache__/
+    *.pyc
+    .env
+    venv/
+    *.log
+
+    # Ignore OS-specific files
+    .DS_Store
+    .vscode/
+
+    # Ignore Docker files themselves
+    Dockerfile
+    .dockerignore
+
+    # Ignore our old batch script which is not needed in Linux-based Docker
+    run_all.bat
+    
+    # Ignore the raw product data and temporary files
+    uploads/
+    
