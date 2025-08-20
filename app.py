@@ -1,4 +1,4 @@
-# app.py (Modified Functions)
+# app.py
 from flask import Flask, request, jsonify, send_from_directory, render_template
 from werkzeug.utils import secure_filename
 import os
@@ -9,11 +9,11 @@ from flask_cors import CORS
 # Local imports from our modular structure
 from models.efficientnet_extractor import EfficientNetFeatureExtractor
 from models.vector_db import VectorDB
-from utils.data_loader import load_and_merge_products # Import the new function
+from utils.data_loader import load_cleaned_products
 from config import (
     UPLOAD_DIR, BASE_DIR, TOP_K_DISPLAY, TOP_K_CANDIDATES,
     ANNOY_INDEX_PATH, HANDLE_PATH, DIMENSION_PATH, IMAGE_DIR,
-    PRODUCTS_JSON_PATH, CLEANED_PRODUCTS_JSON_PATH
+    CLEANED_PRODUCTS_JSON_PATH
 )
 
 app = Flask(__name__)
@@ -56,20 +56,19 @@ def init_app_resources():
         vector_db = None 
 
     try:
-        # Using the new merge function
-        full_products_data = load_and_merge_products(PRODUCTS_JSON_PATH, CLEANED_PRODUCTS_JSON_PATH) 
+        full_products_data = load_cleaned_products(CLEANED_PRODUCTS_JSON_PATH) 
         
-        all_products_metadata = {p.get('Handle'): p for p in full_products_data if p.get('Handle')}
-        print(f"Loaded {len(all_products_metadata)} product metadata entries from merged JSON.")
+        all_products_metadata = {p.get('product_id'): p for p in full_products_data if p.get('product_id')}
+        print(f"Loaded {len(all_products_metadata)} product metadata entries from cleaned JSON.")
 
         types_set = set()
         vendors_set = set()
-        for product in all_products_metadata.values():
+        for product in full_products_data: 
             product_type = product.get('Type')
             vendor = product.get('Vendor')
             if product_type and product_type.strip() and product_type.strip().lower() != 'other':
                 types_set.add(product_type.strip())
-            if vendor and vendor.strip() and vendor.strip().lower() != 'unknown':
+            if vendor and vendor.strip() and vendor.strip().lower() != 'unknown vendor':
                 vendors_set.add(vendor.strip())
         
         unique_product_types = sorted(list(types_set))
@@ -77,9 +76,9 @@ def init_app_resources():
         print(f"Discovered unique Types for filtering: {unique_product_types}")
         print(f"Discovered unique Vendors for filtering: {unique_vendors}")
     except FileNotFoundError:
-        print("Error: One of the product JSON files was not found.")
+        print("Error: Cleaned products.json not found. Please ensure it's in the root directory and `clean_product_data.py` was run.")
     except json.JSONDecodeError:
-        print("Error: Invalid JSON format in one of the product files.")
+        print("Error: Invalid products_cleaned.json format. Please check the file.")
     except Exception as e:
         print(f"An unexpected error occurred during product metadata loading: {str(e)}")
     
@@ -150,14 +149,13 @@ def search():
 
         response_matches = []
         for product_info in final_matches_to_return:
-            price_display = f"${product_info.get('Price', 'N/A')}" if product_info.get('Price') else '$N/A'
             response_matches.append({
-                "Handle": product_info.get("Handle"),
-                "Title": product_info.get("Title", "Untitled Product"),
-                "Vendor": product_info.get("Vendor", "N/A"),
-                "Price": price_display,
-                "Image_Src": product_info.get("Image_Src"),
-                "Type": product_info.get("Type", "N/A")
+                "Handle": product_info.get("product_id"),
+                "Title": product_info.get("Title"),
+                "Vendor": product_info.get("Vendor"),
+                "Price": product_info.get("Variant Price"),
+                "Image_Src": product_info.get("Image Src", "").strip(),
+                "Type": product_info.get("Type")
             })
 
         os.remove(temp_path)
