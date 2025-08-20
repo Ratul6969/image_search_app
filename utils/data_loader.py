@@ -1,10 +1,8 @@
 # utils/data_loader.py
 import json
 import os
-import requests
-from config import IMAGE_DIR, PRODUCTS_JSON_PATH, CLEANED_PRODUCTS_JSON_PATH
 
-def load_products(json_path=PRODUCTS_JSON_PATH):
+def load_products(json_path):
     """
     Loads product data from a JSON file.
     Args:
@@ -23,12 +21,40 @@ def load_products(json_path=PRODUCTS_JSON_PATH):
         print(f"Error: The file {json_path} contains invalid JSON.")
         return []
 
-def load_cleaned_products(json_path=CLEANED_PRODUCTS_JSON_PATH):
+def load_and_merge_products(products_json_path, cleaned_products_json_path):
     """
-    Loads cleaned product data from a JSON file.
-    Args:
-        json_path (str): The path to the cleaned JSON file.
-    Returns:
-        list: A list of cleaned product dictionaries.
+    Loads data from two JSON files and merges them.
+    Prioritizes specific fields from the cleaned data.
     """
-    return load_products(json_path)
+    products_data = load_products(products_json_path)
+    cleaned_data = load_products(cleaned_products_json_path)
+
+    cleaned_map = {p.get('product_id'): p for p in cleaned_data}
+    merged_products = {}
+
+    for product in products_data:
+        handle = product.get('Handle')
+        if handle and handle in cleaned_map:
+            cleaned_info = cleaned_map[handle]
+            # Merge data, prioritizing cleaned data for vendor and category
+            merged_product = {
+                "Handle": handle,
+                "Title": product.get("Title"),
+                "Vendor": cleaned_info.get("vendor", product.get("Vendor")),
+                "Type": cleaned_info.get("category", product.get("Type")),
+                "Price": product.get("Variant Price"),
+                "Image_Src": product.get("Image Src", "").strip()
+            }
+            merged_products[handle] = merged_product
+        else:
+            # Use original data if no cleaned data is found for the handle
+            merged_products[handle] = {
+                "Handle": handle,
+                "Title": product.get("Title"),
+                "Vendor": product.get("Vendor"),
+                "Type": product.get("Type"),
+                "Price": product.get("Variant Price"),
+                "Image_Src": product.get("Image Src", "").strip()
+            }
+    
+    return list(merged_products.values())
