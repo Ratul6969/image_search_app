@@ -9,7 +9,8 @@ IMAGE_DIR = os.path.join(DATA_DIR, 'product_images')
 
 # File Paths
 PRODUCTS_JSON_PATH = os.path.join(BASE_DIR, 'products.json')
-CLEANED_PRODUCTS_JSON_PATH = os.path.join(DATA_DIR, 'products_cleaned.json')
+CLEANED_PRODUCTS_JSON_PATH = os.path.join(BASE_DIR, 'products_cleaned.json')  # Root directory
+DATA_PRODUCTS_CLEANED_PATH = os.path.join(DATA_DIR, 'products_cleaned.json')  # Data directory
 ANNOY_INDEX_PATH = os.path.join(DATA_DIR, 'product_index.ann')
 HANDLE_PATH = os.path.join(DATA_DIR, 'handles.npy')
 DIMENSION_PATH = os.path.join(DATA_DIR, 'feature_dimension.txt')

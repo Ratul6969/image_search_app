@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  image-search-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ratul00/image-search-app
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./data:/app/data
+      - ./uploads:/app/uploads

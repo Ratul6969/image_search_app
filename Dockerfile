@@ -40,6 +40,7 @@ COPY --from=builder /usr/local/lib/python3.9/site-packages /usr/local/lib/python
 # Copy only the necessary files and pre-built artifacts from the builder stage
 COPY --from=builder /app/app.py .
 COPY --from=builder /app/config.py .
+COPY --from=builder /app/products_cleaned.json .
 COPY --from=builder /app/models ./models
 COPY --from=builder /app/utils ./utils
 COPY --from=builder /app/data ./data
@@ -48,7 +49,7 @@ COPY --from=builder /app/yolov8n.pt .
 
 # --- CRITICAL FIX: Create 'templates' directory and copy index.html into it ---
 RUN mkdir -p templates
-COPY --from=builder /app/index.html /app/templates/index.html
+COPY --from=builder /app/templates/index.html templates/ 
 
 # Create a directory for user uploads
 RUN mkdir -p uploads

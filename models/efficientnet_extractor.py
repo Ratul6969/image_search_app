@@ -17,8 +17,6 @@ class EfficientNetFeatureExtractor:
         
         # Remove the classification head (last layer of the model)
         # EfficientNet's backbone typically ends before the final classifier.
-        # The list(self.model.children()) gives us the layers.
-        # [:-1] removes the very last layer (the classifier).
         self.backbone = torch.nn.Sequential(*(list(self.model.children())[:-1]))
         
         # Ensure the model is in evaluation mode; important for consistent inference

@@ -2,7 +2,6 @@
 from flask import Flask, request, jsonify, send_from_directory, render_template
 from werkzeug.utils import secure_filename
 import os
-import numpy as np
 import json 
 from flask_cors import CORS 
 
@@ -23,11 +22,9 @@ app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
 feature_extractor = None
 vector_db = None
 all_products_metadata = {}
-unique_product_types = []
-unique_vendors = []
 
 def init_app_resources():
-    global feature_extractor, vector_db, all_products_metadata, unique_product_types, unique_vendors
+    global feature_extractor, vector_db, all_products_metadata
 
     print("Initializing application resources...")
     
@@ -56,29 +53,15 @@ def init_app_resources():
         vector_db = None 
 
     try:
-        full_products_data = load_cleaned_products(CLEANED_PRODUCTS_JSON_PATH) 
+        # Load root products_cleaned.json
+        root_products_data = load_cleaned_products(CLEANED_PRODUCTS_JSON_PATH)
+        all_products_metadata = {p.get('Handle'): p for p in root_products_data if p.get('Handle')}
+        print(f"Loaded {len(all_products_metadata)} product metadata entries from root products_cleaned.json.")
         
-        all_products_metadata = {p.get('product_id'): p for p in full_products_data if p.get('product_id')}
-        print(f"Loaded {len(all_products_metadata)} product metadata entries from cleaned JSON.")
-
-        types_set = set()
-        vendors_set = set()
-        for product in full_products_data: 
-            product_type = product.get('Type')
-            vendor = product.get('Vendor')
-            if product_type and product_type.strip() and product_type.strip().lower() != 'other':
-                types_set.add(product_type.strip())
-            if vendor and vendor.strip() and vendor.strip().lower() != 'unknown vendor':
-                vendors_set.add(vendor.strip())
-        
-        unique_product_types = sorted(list(types_set))
-        unique_vendors = sorted(list(vendors_set))
-        print(f"Discovered unique Types for filtering: {unique_product_types}")
-        print(f"Discovered unique Vendors for filtering: {unique_vendors}")
     except FileNotFoundError:
-        print("Error: Cleaned products.json not found. Please ensure it's in the root directory and `clean_product_data.py` was run.")
+        print("Error: products_cleaned.json files not found.")
     except json.JSONDecodeError:
-        print("Error: Invalid products_cleaned.json format. Please check the file.")
+        print("Error: Invalid JSON format in products files.")
     except Exception as e:
         print(f"An unexpected error occurred during product metadata loading: {str(e)}")
     
@@ -90,6 +73,8 @@ def home():
 
 @app.route('/get_filter_options', methods=['GET'])
 def get_filter_options():
+    unique_product_types = sorted(list(set(p.get('Type') for p in all_products_metadata.values() if p.get('Type'))))
+    unique_vendors = sorted(list(set(p.get('Vendor') for p in all_products_metadata.values() if p.get('Vendor'))))
     return jsonify({
         "product_types": unique_product_types,
         "vendors": unique_vendors
@@ -113,12 +98,19 @@ def search():
     temp_path = os.path.join(UPLOAD_DIR, filename)
     
     try:
+        print("DEBUG: Search endpoint called")
+        
+        if not vector_db or not feature_extractor:
+            print("DEBUG: vector_db or feature_extractor not loaded")
+            return jsonify({"error": "Service not ready..."}), 503
         file.save(temp_path)
         print(f"Received and saved user image to {temp_path}")
         
         query_features = feature_extractor.get_features(temp_path)
         
-        initial_match_handles = vector_db.search(query_features, k=TOP_K_CANDIDATES) 
+        initial_match_handles = vector_db.search(query_features, k=TOP_K_CANDIDATES)
+        print(f"DEBUG: Found {len(initial_match_handles)} initial matches")
+        print(f"DEBUG: Sample matches: {initial_match_handles[:3]}") 
 
         initial_matches_full_info = []
         for handle in initial_match_handles:
@@ -127,14 +119,14 @@ def search():
                 initial_matches_full_info.append(product_info)
 
         filtered_matches = []
-        requested_type = request.form.get('product_type') 
+        requested_type = request.form.get('product_type')
         requested_vendor = request.form.get('vendor')     
         
         for product in initial_matches_full_info:
             passes_type_filter = True
             passes_vendor_filter = True
 
-            if requested_type and requested_type != "All": 
+            if requested_type and requested_type != "All":
                 if product.get('Type', '').strip().lower() != requested_type.lower():
                     passes_type_filter = False
             
@@ -150,7 +142,7 @@ def search():
         response_matches = []
         for product_info in final_matches_to_return:
             response_matches.append({
-                "Handle": product_info.get("product_id"),
+                "Handle": product_info.get("Handle"),
                 "Title": product_info.get("Title"),
                 "Vendor": product_info.get("Vendor"),
                 "Price": product_info.get("Variant Price"),
